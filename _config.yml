@@ -1,10 +1,10 @@
-name: Jekyll Themes
+name: Joseph Z
 url: http://matt.harzewski.com
 description: Insert tagline here
 
 permalink: /themes/:title/
 
-plugins: [jekyll-paginate]
+plugins:  
 
 highlighter: pygments
 paginate: 20
